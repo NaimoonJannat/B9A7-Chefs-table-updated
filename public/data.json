@@ -1,0 +1,180 @@
+[
+  {
+    "id": 1,
+    "recipe_name": "Lemon Garlic Butter Chicken",
+    "short_description": "Juicy chicken thighs in lemon garlic butter sauce.",
+    "ingredients": [
+      "550 g chicken thighs",
+      "4 cloves garlic, minced",
+      "1/4 cup lemon juice",
+      "2 tbsp butter",
+      "1 tsp dried oregano",
+      "Salt and pepper to taste"
+    ],
+    "preparing_time": 40,
+    "calories": 380,
+    "recipe_image": "https://i.ibb.co/zsdMZQV/lemon-garlic-chicken.jpg"
+  },
+  {
+    "id": 2,
+    "recipe_name": "Caprese Salad",
+    "short_description": "Classic salad with tomatoes, mozzarella, and basil.",
+    "ingredients": [
+      "4 ripe tomatoes",
+      "250 g fresh mozzarella cheese",
+      "1 cup fresh basil leaves",
+      "2 tbsp balsamic glaze",
+      "Salt and pepper to taste"
+    ],
+    "preparing_time": 15,
+    "calories": 220,
+    "recipe_image": "https://i.ibb.co/6BrnmrT/Caprese-Salad.jpg"
+  },
+  {
+    "id": 3,
+    "recipe_name": "Vegetable Stir-Fry",
+    "short_description": "Colorful stir-fry with vegetables and tofu.",
+    "ingredients": [
+      "200 g tofu, cubed",
+      "1 red bell pepper, sliced",
+      "1 green bell pepper, sliced",
+      "1 carrot, julienned",
+      "100 g snow peas",
+      "120 ml soy sauce",
+      "2 cloves garlic, minced",
+      "1 tbsp grated ginger",
+      "2 tbsp vegetable oil"
+    ],
+    "preparing_time": 25,
+    "calories": 280,
+    "recipe_image": "https://i.ibb.co/MMMW5qF/vegetable-stir.jpg"
+  },
+  {
+    "id": 4,
+    "recipe_name": "Pasta Primavera",
+    "short_description": "Fresh pasta with seasonal vegetables in garlic sauce.",
+    "ingredients": [
+      "300 g pasta (penne or spaghetti)",
+      "1 zucchini, sliced",
+      "1 yellow squash, sliced",
+      "1 cup cherry tomatoes, halved",
+      "1/2 cup frozen peas",
+      "2 cloves garlic, minced",
+      "1/2 cup heavy cream",
+      "1/4 cup grated Parmesan cheese",
+      "2 tbsp olive oil",
+      "Salt and pepper to taste"
+    ],
+    "preparing_time": 20,
+    "calories": 340,
+    "recipe_image": "https://i.ibb.co/47mJf5B/Pasta-Primavera.jpg"
+  },
+  {
+    "id": 5,
+    "recipe_name": "Grilled Salmon with Mango Salsa",
+    "short_description": "Grilled salmon topped with mango salsa.",
+    "ingredients": [
+      "4 salmon fillets",
+      "1 ripe mango, diced",
+      "1/2 red onion, finely chopped",
+      "1/4 cup fresh cilantro, chopped",
+      "1 jalapeño, seeded and minced",
+      "Juice of 1 lime",
+      "2 tbsp olive oil",
+      "Salt and pepper to taste"
+    ],
+    "preparing_time": 30,
+    "calories": 320,
+    "recipe_image": "https://i.ibb.co/2hq2dKv/salmon-mango-salsa.jpg"
+  },
+  {
+    "id": 6,
+    "recipe_name": "Quinoa Salad with Chickpeas",
+    "short_description": "Protein-packed salad with quinoa and chickpeas.",
+    "ingredients": [
+      "1 cup quinoa",
+      "1 can chickpeas",
+      "1 cucumber",
+      "1 red bell pepper",
+      "Juice of 2 lemons"
+    ],
+    "preparing_time": 25,
+    "calories": 280,
+    "recipe_image": "https://i.ibb.co/7n5LcD2/Chickpea-Quinoa-Salad.jpg"
+  },
+  {
+    "id": 7,
+    "recipe_name": "Beef and Broccoli Stir-Fry",
+    "short_description": "Savory stir-fry with beef and broccoli.",
+    "ingredients": [
+      "400 g beef sirloin",
+      "2 cups broccoli florets",
+      "2 cloves garlic",
+      "1/4 cup soy sauce",
+      "2 tbsp oyster sauce",
+      "400 g beef sirloin, thinly sliced",
+      "2 cups broccoli florets"
+    ],
+    "preparing_time": 30,
+    "calories": 350,
+    "recipe_image": "https://i.ibb.co/3yDpLf3/Beef-stir-fry.jpg"
+  },
+  {
+    "id": 8,
+    "recipe_name": "Mushroom Risotto",
+    "short_description": "Creamy risotto with mushrooms and Parmesan.",
+    "ingredients": [
+      "1 cup Arborio rice",
+      "200 g mushrooms",
+      "4 cups vegetable broth",
+      "1/2 cup dry white wine",
+      "1/4 cup grated Parmesan cheese",
+      "1 onion, finely chopped",
+      "2 cloves garlic, minced",
+      "2 tbsp butter",
+      "2 tbsp olive oil",
+      "Salt and pepper to taste"
+    ],
+    "preparing_time": 35,
+    "calories": 320,
+    "recipe_image": "https://i.ibb.co/0JS1cpV/SES-mushroom-risotto.jpg"
+  },
+  {
+    "id": 9,
+    "recipe_name": "Honey Garlic Shrimp",
+    "short_description": "Shrimp in sweet and savory honey garlic sauce.",
+    "ingredients": [
+      "500 g large shrimp",
+      "4 cloves garlic",
+      "1/4 cup honey",
+      "2 tbsp soy sauce",
+      "1 tbsp sesame oil",
+      "1 tbsp olive oil",
+      "2 green onions, chopped",
+      "1 tsp sesame seeds",
+      "Salt and pepper to taste"
+    ],
+    "preparing_time": 20,
+    "calories": 290,
+    "recipe_image": "https://i.ibb.co/vq92zv7/honey-garlic-shrimp.jpg"
+  },
+  {
+    "id": 10,
+    "recipe_name": "Vegetarian Chili",
+    "short_description": "Hearty chili with beans and vegetables.",
+    "ingredients": [
+      "1 can black beans",
+      "1 can kidney beans",
+      "1 can diced tomatoes",
+      "1 bell pepper",
+      "1 onion",
+      "1 tsp cumin",
+      "1/2 tsp smoked paprika",
+      "Salt and pepper to taste",
+      "Sour cream and shredded cheese for serving (optional)"
+    ],
+    "preparing_time": 40,
+    "calories": 250,
+    "recipe_image": "https://i.ibb.co/y0jqxDz/vegetarian-chili.jpg"
+  }
+]
